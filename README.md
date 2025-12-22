@@ -17,7 +17,7 @@ The TB-LIFE+mod for Taobao Life Beautification is designed by Grace (秋水) and
 
 Not fully compatible with all clothing yet, misalignment is normal, there is no need to ask everywhere.
 
-**I added a password to prevent the , which is suitable for any beautification I draw. Password:本免费美化仅发布于dc中英双区，禁止二传商用
+**I added a password to prevent the reseller, which is suitable for any beautification I draw. Password:本免费美化仅发布于dc中英双区，禁止二传商用
 
 💠 Usage: 
 
