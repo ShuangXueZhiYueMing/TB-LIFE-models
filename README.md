@@ -13,12 +13,12 @@
 
 ————————————————
 
-TB-LIFE模式由Grace（）说明，只有modloader版本可用。TB1模块我们需要纸娃娃模块作为前端模块，而TB2是可选的。
+The TB-LIFE+mod for Taobao Life Beautification is designed by Grace (秋水) and is only available in the modloader version. TB1 requires paperdoll+ mod, TB2 is optional. 
 
-它还没有完全适应所有的服装，所以图像错位是正常的。没有必要问为什么。
+Not fully compatible with all clothing yet, misalignment is normal, there is no need to ask everywhere.
 
-**To prevent unauthorized resale, a password has been added. It applies to any enhancement mod I have illustrated. Password:本免费美化仅发布于dc中英双区，禁止二传商用
+**I added a password to prevent the , which is suitable for any beautification I draw. Password:本免费美化仅发布于dc中英双区，禁止二传商用
 
-💠Instructions:
+💠 Usage: 
 
-下载“mod.zip”文件，通过modloader导入，输入密码，打开BSA即可正常播放。PSD文件用于在图形软件中查看图层，不需要导入。
+Download the mod. zip file, import it into modloader and enter the password , open BSA for normal gameplay. The PSD file is used to view layers in drawing software and does not need to be imported.
