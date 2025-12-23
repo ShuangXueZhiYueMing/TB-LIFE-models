@@ -1,5 +1,6 @@
 # ⛲TB-LIFE-models
-<img 宽度="1836" height="803" alt="新建画布1" src="https://github.com/user-attachments/assets/36ad3f28-f453-4565-88cf-8a8aa190465c" />
+
+<img width="1836" height="803" alt="新建画布1" src="https://github.com/user-attachments/assets/23ab1dde-b91b-4f07-b1b9-d725778cb40a" />
 
 TB-LIFE桃宝人生美化模组是由秋水（Grace）绘制、柯尔协助代码的dol人模美化模组，分为1版和2版。
 
