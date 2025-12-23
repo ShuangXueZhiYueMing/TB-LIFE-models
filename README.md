@@ -1,9 +1,9 @@
 # ⛲TB-LIFE-models
-<img width="1836" height="803" alt="新建画布1" src="https://github.com/user-attachments/assets/36ad3f28-f453-4565-88cf-8a8aa190465c" />
+<img 宽度="1836" height="803" alt="新建画布1" src="https://github.com/user-attachments/assets/36ad3f28-f453-4565-88cf-8a8aa190465c" />
 
 TB-LIFE桃宝人生美化模组是由秋水（Grace）绘制、柯尔协助代码的dol人模美化模组，分为1版和2版。
 
-1版为600*300大画布模组，需要*纸娃娃+*作为前置模组，2版为原版尺寸模组，装不装纸娃娃看个人喜好。
+1版为600x300大画布模组，需要*纸娃娃+*作为前置模组，2版为原版尺寸模组，装不装纸娃娃看个人喜好。
 
 目前tb1进度800+/1166，tb2进度66/1166，*未完全适配，错位是正常的*。
 
@@ -21,22 +21,22 @@ TB-LIFE桃宝人生美化模组是由秋水（Grace）绘制、柯尔协助代�
 
 ⛲————————————⛲
 
-TB-LIFE Beautification Mod is a DOL pc beautification mod illustrated by Grace with coding assistance from miyako4828. It is divided into Version 1 and Version 2.
+TB-LIFE美化模型是一个DOL pc美化模型，由Grace与miyako4828的编码协助说明。它分为版本1和版本2。
 
-TB1 is a large 600*300 canvas mod that requires *paperdoll+ mod* as a prerequisite. TB2 follows the original game dimensions, and whether to install paperdoll+ mod is based on personal preference.
+TB1是一个大型的600*300帆布模，需要*纸娃娃模*作为先决条件。TB2遵循原游戏尺寸，是否安装纸娃娃模根据个人喜好。
 
-Currently, TB1 progress is 800+/1166, and TB2 progress is 66/1166. *Not fully adapted yet; misalignments are normal.*
+目前TB1进度为800 /1166，TB2进度为66/1166。*尚未完全适应；错位是正常的
 
-If you have any questions about the beautification, please ask me in the TB-LIFE release post in the DOL汉化交流 Discord server or in the TB-LIFE beautification channel of the Degrees of Lewdity Modding Discord server.If your native language is not Chinese, please provide a machine translated version so that I can process it faster.
+如果您有任何关于美化的问题，请在DOL服务器的TB-LIFE发布帖子中或在淫乱程度mod不和谐服务器的TB-LIFE美化通道中询问我。如果您的母语不是中文，请提供机器翻译版本，以便我更快处理。
 
-To prevent barefaced resellers, a password has been added. Therefore, it can only be imported via ModLoader and cannot be replaced. The universal mod password is: 本免费美化仅发布于dc中英双区，禁止二传商用
+为了防止无耻的经销商，已经添加了密码。因此只能通过ModLoader导入，不能被替换。通用mod密码是:本免费美化仅发布于直流中英双区,禁止二传商用
 
-Usage Instructions:
+使用说明:
 
-After downloading the "xx.mod.zip" file, import it via ModLoader and enter the password. Refresh the game, enable BSA, and refresh again to play normally.
+下载“xx.mod.zip”文件后，通过ModLoader导入，并输入密码。刷新游戏，开启BSA，重新刷新即可正常游戏。
 
-*The zip file containing PSD files is for unpacking to view layers in graphic software or create derivative works. Do not import it into the game.*
+*包含PSD文件的zip文件用于在图形软件中拆包以查看图层或创建衍生作品。不要将其导入到游戏中
 
-Special thanks to miyako4828, Aoki Utage, YazawaHY, Butterfly, and other group friends for their assistance during creation. Thanks to chouchou for authorizing the integration of the Face Variants mod!
+特别感谢miyako4828， Aoki Utage, YazawaHY， Butterfly和其他群友在创作过程中的帮助。感谢丑丑授权整合Face variant mod！
 
 
