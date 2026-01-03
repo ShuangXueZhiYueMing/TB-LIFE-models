@@ -6,7 +6,7 @@ TB-LIFE桃宝人生美化模组是由秋水（Grace）绘制、柯尔协助代�
 
 1版为600x300大画布模组，需要*纸娃娃+*作为前置模组，2版为原版尺寸模组，装不装纸娃娃看个人喜好。
 
-目前tb1进度800+/1166，tb2进度66/1166，*未完全适配，错位是正常的*。
+目前tb1进度900/1166，tb2进度66/1166，*未完全适配，错位是正常的*。
 
 若对美化有疑问请在discord的DOL汉化交流服务器的tb-life发布贴或Degrees of Lewdity Modding服务器的tb-life美化频道询问我。如果你的母语不是中文，请附上机翻中文以便我能更快处理。
 
@@ -26,7 +26,7 @@ TB-LIFE Beautification Mod is a DOL pc beautification mod illustrated by Grace w
 
 TB1 is a large 600*300 canvas mod that requires *paperdoll+ mod* as a prerequisite. TB2 follows the original game dimensions, and whether to install paperdoll+ mod is based on personal preference.
 
-Currently, TB1 progress is 800+/1166, and TB2 progress is 66/1166. *Not fully adapted yet; misalignments are normal.*
+Currently, TB1 progress is 900/1166, and TB2 progress is 66/1166. *Not fully adapted yet; misalignments are normal.*
 
 If you have any questions about the beautification, please ask me in the TB-LIFE release post in the DOL汉化交流 Discord server or in the TB-LIFE beautification channel of the Degrees of Lewdity Modding Discord server.If your native language is not Chinese, please provide a machine translated version so that I can process it faster.
 
