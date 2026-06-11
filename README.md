@@ -6,7 +6,7 @@
 
 TB-LIFE桃宝人生美化模组是由秋水（Grace）绘制、柯尔协助代码的dol人模美化模组，分为1版和2版。
 
-1版为600x300大画布模组，需要https://github.com/HCPTangHY/DOL-PaperdollPlus作为前置模组，2版为原版尺寸模组，装不装paperdoll 看个人喜好。
+1版为600x300大画布模组，需要 https://github.com/HCPTangHY/DOL-PaperdollPlus 作为前置模组，2版为原版尺寸模组，装不装paperdoll 看个人喜好。
 
 已适配游戏0.5.9+版本，目前优先补充tb1，tb2随缘画，【错位是正常的，因为我没画】
 
